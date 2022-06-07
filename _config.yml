@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Di He"
   avatar           : "dihe.jpg"
-  bio              : "Senior Researcher at Microsoft Research Asia"
+  bio              : "Assistant Professor at Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "di_he@pku.edu.cn"
+  email            : "dihe@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
